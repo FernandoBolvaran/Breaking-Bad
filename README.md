@@ -1,3 +1,6 @@
+Proyecto en ReactJs, consumiendo la Api con FETCH de frases breaking Bad, desarrollado en React.
+
+Los detalles de su deploy estan en las siguientes especificaciones:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
